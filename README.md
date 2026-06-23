@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&size=60&duration=3000&pause=1000&color=%23da7885&center=true&vCenter=true&width=1000&lines=Hai+Van+Vo;Katherine+(Kat)+Vo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&size=60&duration=3000&pause=1000&color=%23da7885&center=true&vCenter=true&width=1000&height=120&lines=Hai+Van+Vo;Katherine+(Kat)+Vo" alt="Typing SVG" />
 </p>
 
 # Socials  
