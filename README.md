@@ -8,13 +8,9 @@
 </p>
 
 # About Me
+
 <p align="center">
-  <a href="https://github.com/user-attachments/files/29237857/CV.-.HAI.VAN.VO.pdf" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/VIEW%20MY%20RESUME%20HERE-%23da7885?style=plastic&logo=readme&logoColor=white" alt="VIEW MY RESUME HERE" />
-  </a>
-  <a href="https://www.linkedin.com/in/hai-van-vo" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5?style=plastic&logo=linkedin&logoColor=white" alt="LINKEDIN" />
-  </a>
+  <a href="https://github.com/user-attachments/files/29237857/CV.-.HAI.VAN.VO.pdf" target="_blank"><img src="https://img.shields.io/badge/VIEW%20MY%20RESUME%20HERE-%23da7885?style=plastic&logo=readme&logoColor=white" alt="VIEW MY RESUME HERE" /></a> &nbsp; <a href="https://www.linkedin.com/in/hai-van-vo" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5?style=plastic&logo=linkedin&logoColor=white" alt="LINKEDIN" /></a>
 </p>
 
 # Tech Stack 
@@ -22,7 +18,7 @@
 
 #  GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=haivanvo&theme=date_night&hide_border=true&include_all_commits=true&count_private=true" height="195" /> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=haivanvo&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=5&card_width=495" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api?username=haivanvo&theme=date_night&hide_border=true&include_all_commits=true&count_private=true" height="150" /> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=haivanvo&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=5&card_width=495" height="150" />
 </p>
 
 
