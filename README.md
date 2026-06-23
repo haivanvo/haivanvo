@@ -4,7 +4,7 @@
 
 <p align="center">
   <i>Hey, welcome to my playground! Just kidding, welcome to my GitHub Page ✨ 
-    <br> There's nothing much here yet, but stay tuned for more artsy x bio stuff!</i>
+    <br> Stay tuned for more artsy x bio stuff!</i>
 </p>
 
 # About Me
