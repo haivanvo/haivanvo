@@ -8,7 +8,7 @@
 </p>
 
 # About Me
-I'm Hai Van, you can call me Katherine (or Kat for short). I'm a Sagittarius with two lives - one hovering on the cloud just like my name, and one living in terminal. Transitioned from wet lab to dry lab, my research journey began with spending evenings in the lab extracting gDNA from crabs to running pipelines overnight — but honestly, I'm having fun with it! 
+I'm Hai Van, you can call me Katherine (or Kat for short). I'm a Sagittarius with two lives - one hovering on the cloud just like my name, and one living in the terminal. Transitioned from wet lab to dry lab, my research journey began with spending evenings in the lab extracting gDNA from crabs to running pipelines overnight — but honestly, I'm having fun with it! 
 
 Get to know more about me here, or I'm always up for a chat if you'd prefer:
 <p align="center">
