@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <i>Hey, welcome to my playground! Just kidding, welcome to my GitHub Page ✨ 
-    <br> Stay tuned for more artsy x bio stuff!</i>
+  <i>Hi there, welcome to my GitHub page ✨ 
+    Stay tuned for more artsy x bio stuff!</i>
 </p>
 
 # About Me
@@ -14,7 +14,7 @@
 </p>
 
 # Tech Stack 
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=Adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=plastic&logo=Adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
 
 #  GitHub Stats 
 <p align="center">
