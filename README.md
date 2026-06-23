@@ -8,9 +8,9 @@
 </p>
 
 # About Me
-I'm Hai Van, you can call me Katherine (or Kat for short). I'm a Sagittarius with two lives - one hovering on the cloud just like my name, and one living in the terminal. Transitioned from wet lab to dry lab, my research journey began with spending evenings in the lab extracting gDNA from crabs to running pipelines overnight — but honestly, I'm having fun with it! 
+I'm Hai Van, but you can call me Katherine (or Kat for short). I'm a Sagittarius with two lives - one hovering on the cloud just like my name, and one living in the terminal. Transitioned from wet lab to dry lab, my research journey began with spending evenings in the lab extracting gDNA from crabs to running pipelines overnight — but honestly, I'm having fun with it! 
 
-Get to know more about me here, or I'm always up for a chat if you'd prefer:
+Get to know more about me here, or feel free to reach out for a chat:
 <p align="center">
   <a href="https://github.com/user-attachments/files/29237857/CV.-.HAI.VAN.VO.pdf" target="_blank"><img src="https://img.shields.io/badge/VIEW%20MY%20RESUME%20HERE-%23da7885?style=plastic&logo=readme&logoColor=white" alt="VIEW MY RESUME HERE" /></a> &nbsp;
   <a href="https://www.linkedin.com/in/hai-van-vo" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5?style=plastic&logo=linkedin&logoColor=white" alt="LINKEDIN" /></a> &nbsp;
