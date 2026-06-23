@@ -7,6 +7,12 @@
     <br> There's nothing much here yet, but stay tuned for more artsy x bio stuff!</i>
 </p>
 
+# My Resume
+<p align="center">
+  <a href="https://github.com/user-attachments/files/29237857/CV.-.HAI.VAN.VO.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20RESUME%20HERE-%23da7885?style=plastic&logoColor=white" alt="VIEW MY RESUME HERE" />
+  </a>
+</p>
 
 # Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=Adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
@@ -16,7 +22,7 @@
   <img src="https://github-readme-stats.shion.dev/api?username=haivanvo&theme=date_night&hide_border=true&include_all_commits=true&count_private=true" height="195" /> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=haivanvo&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=5&card_width=495" height="195" />
 </p>
 
-# Socials
+# My Socials
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/hai-van-vo) 
 
