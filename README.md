@@ -12,7 +12,7 @@ I'm Hai Van, but you can call me Katherine (or Kat for short). I'm a Sagittarius
 
 Get to know more about me here, or feel free to reach out for a chat:
 <p align="center">
-  <a href="[CV - HAI VAN VO.pdf](https://github.com/user-attachments/files/29367745/CV.-.HAI.VAN.VO.pdf)" target="_blank"><img src="https://img.shields.io/badge/VIEW%20MY%20RESUME%20HERE-%23da7885?style=plastic&logo=readme&logoColor=white" alt="VIEW MY RESUME HERE" /></a> &nbsp;
+  <a href="https://github.com/user-attachments/files/29367745/CV.-.HAI.VAN.VO.pdf" target="_blank"><img src="https://img.shields.io/badge/VIEW%20MY%20RESUME%20HERE-%23da7885?style=plastic&logo=readme&logoColor=white" alt="VIEW MY RESUME HERE" /></a> &nbsp;
   <a href="https://www.linkedin.com/in/hai-van-vo" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5?style=plastic&logo=linkedin&logoColor=white" alt="LINKEDIN" /></a> &nbsp;
   <a href="mailto:haivanvowork@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-%23D14836?style=plastic&logo=gmail&logoColor=white" alt="GMAIL" /></a>
 </p>
