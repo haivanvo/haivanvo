@@ -2,13 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=800&size=60&duration=3000&pause=1000&color=%23da7885&center=true&vCenter=true&width=1000&height=90&lines=Hai+Van+Vo;Katherine+(Kat)+Vo" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <i>Hi there, welcome to my GitHub page ✨ 
-    </i>
-</p>
-
 # About Me
-I'm Hai Van, but you can call me Katherine (or Kat for short). I'm a Sagittarius with two lives — one hovering in the clouds, just like my name, and one living in the terminal. Transitioned from wet lab to dry lab, my research journey began with spending evenings in the lab extracting gDNA from crabs to running pipelines overnight — but honestly, I'm having fun with it! 
+I'm Hai Van, but you can call me Katherine (or Kat for short). I'm a Sagittarius with two lives — one hovering in the clouds, just like my name, and one living in the terminal. Transitioned from wet lab to dry lab, my research journey began with spending evenings in the lab extracting gDNA from crabs to running pipelines overnight — but honestly, I'm having fun with it! ✨
 
 Get to know more about me here, or feel free to reach out for a chat:
 <p align="center">
